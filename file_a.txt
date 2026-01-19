@@ -1,2 +1,1 @@
-HEAD
-Merged version
+this is the first line

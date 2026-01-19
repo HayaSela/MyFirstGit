@@ -1,1 +1,6 @@
 venv/
+*.swp
+.swp
+__pycache__/
+*.pyc
+.env
